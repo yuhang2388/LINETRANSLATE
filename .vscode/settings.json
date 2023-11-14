@@ -1,0 +1,21 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-21.0.1\\lib\\javafx.base.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-21.0.1\\lib\\javafx.controls.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-21.0.1\\lib\\javafx.fxml.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-21.0.1\\lib\\javafx.graphics.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-21.0.1\\lib\\javafx.media.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-21.0.1\\lib\\javafx.swing.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-21.0.1\\lib\\javafx.web.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-21.0.1\\lib\\javafx-swt.jar",
+        "c:\\Users\\admin\\.m2\\repository\\com\\linecorp\\bot\\line-bot-model\\6.0.0\\line-bot-model-6.0.0.jar",
+        "c:\\Users\\admin\\.m2\\repository\\com\\linecorp\\bot\\line-bot-api-client\\6.0.0\\line-bot-api-client-6.0.0.jar",
+        "c:\\Users\\admin\\.m2\\repository\\javax\\websocket\\javax.websocket-api\\1.1\\javax.websocket-api-1.1.jar",
+        "c:\\Users\\admin\\.m2\\repository\\org\\glassfish\\tyrus\\client\\tyrus-client-2.1.4.jar",
+        "c:\\Users\\admin\\.m2\\repository\\org\\glassfish\\tyrus\\client\\jakarta.websocket-api-2.1.1.jar",
+        "c:\\Users\\admin\\.m2\\repository\\org\\glassfish\\tyrus\\client\\jakarta.websocket-client-api-2.1.1.jar",
+        "c:\\Users\\admin\\.m2\\repository\\org\\glassfish\\tyrus\\client\\tyrus-core-2.1.4.jar"
+    ],
+    "maven.view": "hierarchical"
+}

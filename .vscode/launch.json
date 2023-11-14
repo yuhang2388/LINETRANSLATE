@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "line",
+            "request": "launch",
+            "vmArgs": "--module-path \"C:\\Program Files\\Java\\javafx-sdk-21.0.1\\lib\" --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web",
+            "mainClass": "line",
+            "projectName": "line_9eed623",
+            "jdkPath": "C:\\Program Files\\Java\\jdk-21",
+            "cwd": "${workspaceFolder}",
+            "startupClass": "line"
+        }
+    ]
+}
